@@ -52,5 +52,8 @@ O projeto encontra-se em fase de desenvolvimento e testes, com aplicação pilot
 > O código é distribuído sob a licença [MIT](LICENSE), permitindo uso, cópia, modificação e distribuição. Entretanto, o modelo comercial da HydroSafe está centrado na oferta de serviços, suporte, hospedagem em nuvem e customizações da plataforma. 
 
 ## Contato
-Desenvolvido por [Alexandro G. Schafer](https://github.com/alexandrogschafer, [Camila O. de Leon], [Heduardo W. Barcelos], [Pedro G. M. Pereira]
-E-mail: alexandroschafer@unipampa.edu.br
+
+Desenvolvido por [Alexandro G. Schafer](https://github.com/alexandrogschafer), Camila O. de Leon, Heduardo W. Barcelos e Pedro G. M. Pereira.
+
+📧 **E-mail:** alexandroschafer@unipampa.edu.br
+
