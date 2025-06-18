@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="images/logo-hydrosafe.png" alt="HydroSafe Logo" width="300"/>
+  <img src="images/logo-hydrosafe.png" alt="Logo" width="300"/>
 </p>
 
-<h1 align="center">HydroSafe</h1>
-<p align="center"><b>Inteligência para Segurança Hídrica e Climática</b></p>
+<p align="center"><b>Inteligência para Segurança Hídrica</b></p>
+
 
 
 **Inteligência para Segurança Hídrica**  
