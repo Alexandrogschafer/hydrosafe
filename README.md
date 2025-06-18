@@ -22,7 +22,7 @@ O HydroSafe é uma plataforma inteligente desenvolvida para apoiar a gestão da 
 - `/r-scripts`: Scripts desenvolvidos em R para análise de séries temporais, tendências climáticas e modelagem estatística.
 - `/python-scripts`: Scripts em Python para processamento de imagens de satélite, detecção de espelho d'água e desenvolvimento de modelos de deep learning.
 - `/docs`: Documentação técnica, relatórios e materiais de apoio.
-- `/data`: Dados de exemplo (se aplicável).
+- `/data`: Dados do estudo de caso.
 - `/images`: Figuras, QR Codes e outros recursos gráficos.
 
 ## Estado Atual do Projeto
