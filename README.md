@@ -12,7 +12,7 @@ O HydroSafe é uma plataforma inteligente desenvolvida para apoiar a gestão da 
 ## Funcionalidades Principais
 - Monitoramento do nível dos reservatórios
 - Análise de séries temporais climáticas e hidrométricas
-- Modelagem de tendência, sazonalidade, ENSO e mudanças climáticas
+- Modelagem de tendência, sazonalidade, eventos extremos, ENSO e mudanças climáticas
 - Detecção automática do espelho d’água das barragens via deep learning
 - Predição de risco hídrico com dados de previsão climática (CPTEC, NASA, ESA)
 - Geração de alertas para gestores e população, incluindo horários de racionamento
