@@ -6,7 +6,6 @@
 
 
 
-**Inteligência para Segurança Hídrica**  
 
 O HydroSafe é uma plataforma inteligente desenvolvida para apoiar a gestão da segurança hídrica, com foco no monitoramento, previsão de riscos de escassez e suporte à tomada de decisão. A solução oferece ferramentas para monitoramento dos níveis das barragens, balanço hídrico, previsão de chuvas e comunicação dos períodos de racionamento à população.
 
